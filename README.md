@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![vtaco's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtaco)](https://github.com/vtaco/github-readme-stats)
+[![vtaco's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtaco)](https://github.com/vtaco/github-readme-stats&show_icons=true)
 
 
 <!--
