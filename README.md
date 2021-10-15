@@ -2,7 +2,8 @@
 
 [![vtaco's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtaco&show_icons=true&theme=gruvbox)](https://github.com/vtaco/github-readme-stats)
 
-[![woosj7129](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={woosj7129})](https://solved.ac/{woosj7129})
 <!--
 **vtaco/vtaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+712
